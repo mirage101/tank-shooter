@@ -1,0 +1,16 @@
+{
+  "name": "event-registration",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Dani Akash S",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "cors": "^2.8.5",
+    "express": "^4.15.3"
+  }
+}
